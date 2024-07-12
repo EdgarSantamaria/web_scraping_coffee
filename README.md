@@ -8,7 +8,7 @@ This project is a web scraping tool designed to extract coffee data from Beanz.c
  - Uses BeautifulSoup for HTML parsing.
  - Compiles the extracted data into a Pandas DataFrame.
  - Saves the data to a CSV file for further analysis.
- - Scrapes 200+ pages in 5 minutes.
+ - Scrapes 257 pages in 5 minutes.
 
 ## Requirements
 - Python 3.6+
