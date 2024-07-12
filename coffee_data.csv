@@ -1,230 +1,258 @@
-vendor,bag_name,notes,details
-Olympia,Morning Sun,"Dark Chocolate, Molasses, Nougat","['Bourbon', 'Central America', 'El Salvador']"
-ONYX,Monarch,"Dark Chocolate, Molasses, Red Wine","['Bourbon', 'Direct Trade, Fair Trade', 'Anaerobic', '1400 - 1800 ft', 'Central America', 'Honduras']"
-Madcap,Bolt,"Chocolate, Syrupy, Red Fruit",['N/A']
-Methodical,Belly Warmer,"Rich, Dark Chocolate, Almond","['Direct Trade', '1150 - 1900 ft', 'South America']"
-Equator,Jaguar Espresso FTO,"Hazelnut, Chocolate, Apricot","['Fair Trade, Certified Organic']"
-Boon Boona,Bereka,"Honey, Sugarcane, Spice","['Certified Organic', 'Washed', '1400 - 2000 ft', 'Africa', 'Ethiopia']"
-Verve,Bronson Blend,"Molasses, Dark Chocolate, Fig",['N/A']
-Black & White,The Traditional,"Dark Chocolate, Cherry, Marzipan","['Washed', '1600 - 2000 ft', 'South America', 'Colombia']"
-Doma,Carmela's,"Brown Sugar, Dark Chocolate, Caramel",['South America']
-Proud Mary,Humbler,"Caramel, Fudge, Date",['Central America']
-Panther,1927 Espresso,"Dark Chocolate, Nutty, Syrupy",['N/A']
-Color,Harmony (Our Espresso Blend),"Dark Chocolate, Red Fruit, Berry","['Direct Trade', 'Central America']"
-Dune,Zip Zinger,"Dark Chocolate, Rich, Stone Fruit","['Heirloom', 'Natural', '1550 - 2100 ft', 'Ethiopia']"
-Groundwork,Black Magic,"Dark Chocolate, Red Berry",['N/A']
-Zoka,Spring Blend,"Black Cherry, Chocolate",['Central America']
-Bluestone Lane,Flagstaff,"Roasted Almond, Vanilla, Chocolate","['Bourbon', 'B Corp, Cup of Excellence', 'Anaerobic', '1 - 1 ft', 'South America', 'Mexico']"
-Methodical,Blue Boy,"Chocolate, Honey, Brown Sugar","['Direct Trade', 'Washed', '1500 - 1500 ft', 'Central America', 'Guatemala']"
-Dune,House Blend,Hazelnut,"['Bourbon', 'Washed', '1550 - 1550 ft', 'Colombia']"
-Equator,Dipsea Espresso,"Cinnamon, Dark Chocolate, Jammy","['B Corp', 'Natural', '3000 - 6550 ft', 'South America', 'Brazil']"
-ONYX,Southern Weather,"Milk Chocolate, Plum, Candied Walnuts","['Castillo', 'Washed', '1200 - 1800 ft', 'South America', 'Colombia']"
-Ruby,Portage Seasonal Blend,"Raisin, Praline, Cocoa Powder","['1250 - 1800 ft', 'South America']"
-Equator,Eye Of The Tiger Espresso,"Dark Chocolate, Dried Fruit","['B Corp', 'Washed', '4000 - 7050 ft', 'South America', 'Colombia']"
-Bluestone Lane,Maverick,"Cacao, Clove, Honeycomb",['N/A']
-Brandywine,Galactic Standard,"Berry, Citrus, Chocolate","['Castillo', '1400 - 2000 ft', 'South America']"
-Necessary,Dark Roast,"Molasses, Bittersweet Chocolate","['Heirloom', 'Washed', '900 - 1200 ft', 'South America', 'Brazil']"
-Methodical,"Costa Rica, La Pastora","Almond, Plum","['Caturra', 'Washed', '1200 - 1900 ft', 'Central America', 'Costa Rica']"
-Dune,Santarossa Blend,"Chocolate, Cinnamon, Great Body","['Bourbon', 'Washed', '1550 - 1550 ft', 'Colombia']"
-Bird Rock,Bird Rock Blend,"Fudge, Spice, Red Apple",['N/A']
-Black & White,The Classic,"Caramel, Stone Fruit, Milk Chocolate","['Washed', '1600 - 2000 ft', 'South America']"
-Necessary,Colombia,"Roasted Nuts, Chocolate","['Castillo', 'B Corp', 'Washed', '1300 - 1700 ft', 'South America', 'Colombia']"
-Boon Boona,Jebena,"Dark Chocolate, Caramel","['Certified Organic', 'Washed', '1400 - 2000 ft', 'Africa', 'Ethiopia']"
-Coava,S.O. Blend,"Caramel, Chocolate, Dried Apple","['Washed', '1200 - 1800 ft', 'South America', 'Colombia']"
-PT's,John Brown,"Baker's Chocolate, Cherry, Spice",['N/A']
-Equator,Equator Blend,"Cedar, Apricot, Nutmeg",['N/A']
-Joe Coffee,Amsterdam,"Dark Chocolate, Walnut, Molasses",['N/A']
-Yes Plz,Homestar Espresso,"Great Body, Milk Chocolate, Nougat","['Washed', 'Central America']"
-Wonderstate,Organic Off Grid Super Dark Roast,"Caramel, Smoky, Bittersweet Chocolate","['Certified Organic', 'Washed', '1800 - 1900 ft', 'South America', 'Peru']"
-Wonderstate,Organic Big Dipper,"Fudge, Vanilla","['Certified Organic', '1500 - 1800 ft', 'South America', 'Peru']"
-Panther,1985 Espresso,"Roasted Almond, Syrupy, Chocolate",['N/A']
-Methodical,Late Night,"Roasted Nuts, Smoky, Dark Chocolate","['Direct Trade', 'Honey', '1150 - 1150 ft', 'South America', 'Brazil']"
-Doma,Marco's,"Brown Sugar, Chocolate, Cedar","['Certified Organic', 'Washed', 'South America']"
-Verve,Sermon Blend,"Blueberry Pie, Cocoa, Pecan",['N/A']
-Methodical,Play Nice,"Dark Chocolate, Berry, Syrupy","['Caturra', 'Direct Trade', '1600 - 1800 ft', 'South America']"
-Iconik,Diesel,"Caramel, Great Body",['South America']
-Coffee Project NY,Woke Up in New York House Drip,"Candied Walnuts, Dried Fruit, Milk Chocolate",['N/A']
-Zoka,Fitzroy,"Milk Chocolate, Molasses, Cherry",['Central America']
-Joe Coffee,Benchmark,"Cacao, Spice, Caramel","['Washed', '1700 - 2000 ft', 'South America', 'Peru']"
-Color,Primary (Our Seasonal Blend),"Milk Chocolate, Cherry, Caramel","['Direct Trade', 'Washed', 'South America']"
-Groundwork,Wild Bloom Regenerative Organic Blend,"Milk Chocolate, Apple","['Direct Trade, Certified Organic, B Corp']"
-Airship,Black Bear,"Dark Chocolate, Roasted Walnuts, Smoked Plums","['Bourbon', 'Direct Trade', 'Honey', 'South America', 'El Salvador']"
-Zoka,Hidden City,"Chocolate, Molasses, Nutty",['South America']
-Temple,Dharma Espresso Blend,"Cacao, Caramel, Nutty","['1000 - 1600 ft', 'South America']"
-Ladro,Diablo,"Walnut, Brown Sugar, Baker's Chocolate","['Fair Trade, Certified Organic']"
-Groundwork,Round Midnight Regenerative Organic Blend,"Marshmallow, Cocoa","['Direct Trade, Organic, Certified Organic, B Corp']"
-Groundwork,Black Gold,"Dark Chocolate, Roasted Hazelnut, Red Fruit",['N/A']
-Wonderstate,Organic Heartstrings,"Dried Fruit, Milk Chocolate, Plum","['1300 - 2300 ft', 'Africa', 'Ethiopia']"
-Camber,Big Joy Espresso Blend,"Red Fruit, Spice","['1500 - 1950 ft', 'South America', 'Guatemala']"
-Kuma,Classic,"Caramel, Chocolate, Stone Fruit","['Bourbon', 'Direct Trade', 'Washed', '1750 - 2000 ft', 'South America', 'Guatemala']"
-Square One,Candy Bar,"Roasted Nuts, Cacao, Plum","['1200 - 1700 ft', 'Central America', 'Brazil']"
-Doma,Virgils,"Caramel, Cedar, Dark Chocolate",['Organic']
-Doma,Vitos,"Honey, Molasses, Nougat",['South America']
-Camellia,Comfort Zone,"Dark Chocolate, Almond","['Natural', 'South America', 'Brazil']"
-Gimme,Righteous (Organic),"Floral, Butterscotch, Candied Lime","['Typica', 'Fair Trade, Certified Organic', 'Washed', '1600 - 1600 ft']"
-Brandywine,Colombia - Santa Barbara Estate,"Dark Chocolate, Rich, Nutty","['Castillo', 'Washed', '1400 - 2000 ft', 'South America', 'Colombia']"
-Necessary,Blend,"Chocolate, Brown Sugar","['Castillo', 'B Corp', 'Washed', 'South America']"
-PT's,Cold Front,"Blackberry, Green Grape, Caramel",['N/A']
-PT's,Southpaw Espresso,"Caramel, Sugarcane, Peach",['N/A']
-PT's,Flying Monkey Espresso,"Chocolate, Honey",['South America']
-Passenger,Stowaway,"Brown Sugar, Cocoa Powder, Orchid","['B Corp', 'Washed', '1600 - 1800 ft', 'El Salvador']"
-Metric,Seismic,"Mandarin Orange, Tamarind, Sweet Cream",['N/A']
-Metric,En Masse,"Cherry, Nougat, Honey",['N/A']
-Airship,Black Apple,"Black Cherry, Dark Chocolate, Juicy Orange","['Direct Trade', 'Washed', 'Africa', 'Ethiopia']"
-Wonderstate,Organic Flyway,"Caramel, Citrus, Dried Cherry","['Certified Organic', '1500 - 1800 ft', 'Central America', 'Guatemala']"
-Panther,Cold Brew,"Malted Milk, Dark Chocolate, Vanilla",['N/A']
-KLLR,El Alacran,"Cooked Fruit, Dark Chocolate, Tobacco",['N/A']
-Kuma,Sun Bear,"Cocoa Powder, Green Grape, Berry","['Direct Trade, Woman Owned', 'Washed', '1750 - 2100 ft', 'Africa', 'Colombia']"
-Counter Culture Coffee,Hologram,"Cooked Fruit, Milk Chocolate, Syrupy","['Direct Trade, B Corp', 'Natural']"
-Counter Culture Coffee,Forty-Six,"Dark Chocolate, Smoky","['Direct Trade, Certified Organic, B Corp', 'Washed']"
-Thou Mayest,Super Ego,"Dark Chocolate, Cherry, Syrupy","['1200 - 1600 ft', 'Central America', 'Brazil']"
-Klatch,Blue Thunder Blend,"Rich, Smoky, Dark Chocolate",['Asia']
-Doma,Rubys,"Brown Sugar, Chocolate, Stone Fruit",['Organic']
-Camellia,Ethereal,"Raspberry, Caramel","['Natural', 'South America', 'Brazil']"
-Doma,Lucia's,"Spice, Dried Fruit, Brown Sugar","['Bourbon', 'Certified Organic', 'Washed', 'Central America', 'Guatemala']"
-Verve,Seabright Blend,"Honeydew, Apricot, Hazelnut",['N/A']
-Verve,Streetlevel Blend,"Clementine, Honeycomb, Red Apple",['China']
-Wonderstate,Organic Driftless,"Plum, Toffee, Cocoa Powder","['Certified Organic', '1500 - 1900 ft', 'South America', 'Peru']"
-Passenger,Montecarlos,"Clementine, Roasted Nuts, Cocoa Powder","['Bourbon', 'B Corp', 'Washed', '1600 - 1800 ft', 'Central America', 'El Salvador']"
-Coffee Project NY,The Retro,"Chocolate, Cherry, Molasses",['N/A']
-Iconik,"Brazil, Carmo de Minas","Chocolate, Red Wine","['Bourbon', 'Direct Trade', 'Natural', 'South America', 'Brazil']"
-Metric,Big Riff,"Stone Fruit, Dark Chocolate, Citrus",['N/A']
-Metric,Colossus,"Fudge, Brown Sugar, Smoky",['N/A']
-Sightglass,Owls Howl,"Cocoa Nib, Stone Fruit, Candied Orange Peel","['Direct Trade', 'Washed', 'Africa', 'Ethiopia']"
-Methodical,Repose Decaf,"Citrus, Strawberry, Coconut Sugar","['Caturra', '1750 - 1750 ft', 'South America', 'Colombia']"
-Coffee Manufactory,11 Dark,"Milk Chocolate, Blackcurrant","['Caturra', 'Washed', '3300 - 5200 ft', 'Central America']"
-Temple,Riqueza Dark Blend,"Spice, Cocoa Powder, Caramel",['Central America']
-Airship,Buffalo Blend,"Caramel, Brown Sugar, Vanilla","['Bourbon', 'Direct Trade', 'Honey', '1700 - 1800 ft', 'Central America', 'Guatemala']"
-Madcap,Eureka,"Chocolate, Orange, Brown Sugar",['N/A']
-Deeper Roots,Alchemy Espresso,"Cherry, Toffee, Chocolate","['Direct Trade', 'South America', 'Guatemala']"
-Black & White,The Natural,"Red Fruit, Chocolate","['Natural', '1650 - 2000 ft', 'Ethiopia']"
-Sightglass,Banner Dark,"Toffee, Honey, Cocoa Powder","['Direct Trade', 'Washed', 'Central America', 'Guatemala']"
-Gimme,Leftist (Fairtrade Organic),"Dark Chocolate, Cherry, Toffee","['Typica', 'Fair Trade, Certified Organic', 'Washed', '1600 - 2400 ft']"
-Zoka,Espresso Paladino,"Citrus, Chocolate",['South America']
-Ruby,Organic August,"Berry, Honey, Milk Chocolate","['Organic', 'Washed', '1800 - 2200 ft', 'Africa', 'Ethiopia']"
-Ruby,Creamery Seasonal Blend,"Fig, Cherry, Dark Chocolate","['Heirloom', 'Washed', '1750 - 2000 ft', 'South America']"
-Equator,Mocha Java Fair Trade Organic,"Almond, Berry, Dark Chocolate","['Fair Trade', '4000 - 7380 ft', 'Africa', 'Ethiopia']"
-Ladro,Ladro Espresso,"Milk Chocolate, Cherry, Caramel",['N/A']
-Groundwork,Big Shot,"Blackstrap Molasses, Dried Fruit, Praline",['N/A']
-Gimme,Honduras Santa Barbara Highlands Dark Org FT,"Cherry, Bittersweet Chocolate, Toasted Walnut","['Pacas', 'Fair Trade, Certified Organic', 'Washed', '1800 - 1800 ft', 'Central America', 'Honduras']"
-Panther,West Coast Espresso,"Lemonade, Malted Chocolate, Raspberry",['N/A']
-Doma,Dominics,"Caramel, Molasses, Raisin",['Organic']
-Bird Rock,The Optimist Blend,"Cinnamon, Caramel, Cocoa Nib","['South America', 'Colombia']"
-Passenger,Daterra,"Red Berry, Date, Cocoa Powder","['Bourbon', 'B Corp', 'Natural', 'South America', 'Brazil']"
-KLLR,KLLR Espresso Blend,"Chocolate, Floral, Spice",['Washed']
-Yes Plz,The Mix,"Chocolate, Nutty, Great Body",['Central America']
-Sightglass,Blueboon,"Milk Chocolate, Mandarin Orange, Honeysuckle","['Direct Trade, Certified Organic', 'Washed', 'Central America']"
-Color,Eclipse (Our Dark Roast),"Dark Chocolate, Caramel","['Direct Trade', 'Washed', 'South America']"
-Gimme,Brazil Cerrado Highlands  Fairtrade Dark Roast,"Cocoa Nib, Molasses, Orange Rind","['Catuai', 'Fair Trade', 'Natural', '900 - 1300 ft', 'South America', 'Brazil']"
-Kuma,Bright,"Berry, Floral, Citrus","['Heirloom', 'Direct Trade', 'Washed', '1800 - 2100 ft', 'Africa', 'Ethiopia']"
-Counter Culture Coffee,Slow Motion - Decaf,"Milk Chocolate, Molasses, Cocoa","['Direct Trade, Certified Organic, B Corp', 'Washed']"
-Counter Culture Coffee,Big Trouble,"Caramel, Chocolate, Nutty","['Direct Trade, B Corp', 'Washed']"
-Square One,Thaddeus,"Plum, Cacao, Brown Sugar","['1200 - 1600 ft', 'South America', 'Brazil']"
-Camellia,Ethiopia Abiyot Ageze,"Citrus, Milk Chocolate, Strawberry Jam","['Heirloom', 'Natural', '1950 - 2300 ft', 'Africa', 'Ethiopia']"
-Necessary,Burundi,"Berry, Molasses","['Bourbon', 'B Corp', 'Washed', '2000 - 2200 ft', 'Africa', 'Burundi']"
-Iconik,Iconoclast Blend,"Floral, Blueberry, Fudge","['Direct Trade, Fair Trade', 'Central America', 'Peru']"
-Equator,Rwanda Nyampinga,"Currant, Earl Grey, Plum","['Bourbon', 'Washed', '5600 - 5800 ft', 'Africa', 'Ethiopia']"
-Passenger,Heza,"Raspberry, Black Tea, Apricot","['B Corp', 'Washed', 'Africa', 'Burundi']"
-Olympia,Sweetheart,"Dark Chocolate, Cherry, Hazelnut",['N/A']
-Olympia,Big Truck,"Chocolate, Red Fruit, Cherry",['N/A']
-Gimme,Mt Pleasant Fairtrade Organic,"Maple, Nutty, Pine","['Fair Trade, Certified Organic']"
-Coffee Manufactory,01 Espresso,"Dark Sugar, Mango, Cola","['Bourbon', 'Washed', '3000 - 5200 ft']"
-Square One,Deluminator Dark Roast,"Molasses, Smoky, Orange","['Washed', '1300 - 1700 ft', 'Central America', 'Nicaragua']"
-Square One,Sweet Street,"Cacao, Caramel, Molasses","['Washed', '1300 - 1700 ft', 'Central America', 'Nicaragua']"
-Thou Mayest,Boldly Go,"Dark Chocolate, Walnut, Rich","['Washed', '1300 - 1600 ft', 'Asia', 'Indonesia']"
-Portola,Alchemistic,"Baker's Chocolate, Dried Fruit, Roasted Almond",['N/A']
-Iconik,Mexico (Medium Roast),"Almond, Caramel","['Washed', 'Central America', 'Mexico']"
-Gimme,Peru Sol Y Cafe Fairtrade Organic,"Clementine, Honeycomb, Vanilla","['Fair Trade, Certified Organic', 'Washed', '1200 - 2050 ft', 'South America', 'Peru']"
-Gimme,Stargazer Fairtrade Organic,"Almond, Chocolate, Raspberry","['Fair Trade, Certified Organic']"
-Upper Left,Espresso Blend,"Cherry, Chocolate, Apple Cider",['N/A']
-Proud Mary,Angel Wings,"Caramel, Orange",['Washed']
-Proud Mary,Ghost Rider,"Milk Chocolate, Jammy, Blueberry","['Natural', 'Central America']"
-Bird Rock,Monkey Bite Espresso,"Brown Sugar, Apricot, Butterscotch",['N/A']
-Passenger,Keystone,"Floral, Red Fruit, Brown Sugar","['B Corp', 'Washed', '1300 - 1700 ft', 'Colombia']"
-Coffee Project NY,Crowd Pleaser Espresso,"Black Cherry, Chocolate, Honey",['N/A']
-Cuvee,Mexico,"Chocolate, Citrus, Raisin","['Typica', 'Washed', '1000 - 1850 ft', 'Mexico']"
-Methodical,"Ethiopia, Origins - Washed","Citrus, Floral, Jasmine Tea","['Heirloom', 'Washed', '1300 - 2200 ft', 'Africa', 'Ethiopia']"
-KLLR,Natural Africa,"Berry, Floral, Lemon Curd","['Natural', 'Africa', 'Ethiopia']"
-Upper Left,"Chapina, Guatemala","Caramel, Chocolate, Fig","['Bourbon', 'Washed', '1500 - 1800 ft', 'Central America', 'Guatemala']"
-Gimme,Kenya Kericho Highlands Fairtrade Dark Roast,"Blackcurrant, Maple Syrup, Cocoa","['Batian', 'Fair Trade', 'Washed', '2000 - 2000 ft', 'Africa', 'Kenya']"
-Gimme,Ethiopia SCFCU Fairtrade Organic,"Blueberry, Raspberry","['Heirloom', 'Fair Trade, Certified Organic', 'Natural', '1800 - 2200 ft', 'Africa', 'Ethiopia']"
-Gimme,Brazil Coopfam Certified Fairtrade,"Cashew, Honey Graham, Roasted Peanuts","['Catuai', 'Fair Trade', 'Natural', '900 - 1300 ft', 'South America', 'Brazil']"
-Deeper Roots,Colombia San Jose,"Butterscotch, Lemon, Milk Chocolate","['Direct Trade', 'Washed', '1800 - 2000 ft', 'South America', 'Colombia']"
-Black & White,The Original,"Citrus, Honey, Chocolate","['Heirloom', 'Washed', '1900 - 2200 ft', 'Africa', 'Ethiopia']"
-Passenger,Cusco,"Marzipan, Red Fruit, Cocoa","['Typica', 'B Corp', 'Washed', '1600 - 2000 ft', 'South America', 'Peru']"
-Passenger,Agaro,"Bergamot, Peach, Meyer Lemon","['Heirloom', 'B Corp', 'Washed', '1800 - 2100 ft', 'Africa', 'Ethiopia']"
-Sightglass,Toketee,"Apricot, Cocoa Nib, Caramel","['Direct Trade, Certified Organic', 'Washed', 'Asia', 'Indonesia']"
-Methodical,"Ethiopia, Origins - Natural","Berry, Black Tea, Chocolate","['Heirloom', 'Natural', '1200 - 2000 ft', 'Africa', 'Ethiopia']"
-PT's,Terra Alta Pulped Natural,"Milk Chocolate, Vanilla, Peach","['960 - 1021 ft', 'South America', 'Guatemala']"
-Metric,Colorized,"Peach, Mango, Cream",['N/A']
-ONYX,Geometry,"Berry, Lemon, Earl Grey","['Washed', 'Africa', 'Ethiopia']"
-Coffee Manufactory,02 Filter,"Tangerine, Molasses, Nutmeg","['Caturra', 'Washed', '3300 - 5200 ft']"
-Panther,East Coast Espresso,"Chocolate, Black Cherry, Sugarcane",['N/A']
-Doma,Veloce,"Orange, Peach, Brown Sugar","['Certified Organic', 'Central America']"
-Portola,Terra Incognito,"Red Fruit, Floral, Dark Chocolate",['N/A']
-Counter Culture Coffee,Fast Forward,"Cream, Nutty, Sweet","['Direct Trade, Certified Organic, B Corp', 'Washed']"
-Thou Mayest,Alter Ego,"Milk Chocolate, Honeycrisp Apple, Syrupy","['1200 - 1600 ft', 'South America', 'Brazil']"
-Thou Mayest,Smooth Operator,"Milk Chocolate, Cherry, Syrupy","['South America', 'Brazil']"
-Klatch,WBC World's Best Espresso,"Red Fruit, Cherry, Strawberry",['Asia']
-Klatch,Belle Espresso,"Strawberry, Red Fruit, Citrus","['2 - 10 ft', 'Asia', 'Colombia']"
-Cuvee,Ethiopia,"Berry, Red Wine, Cherry","['Direct Trade', '1950 - 2300 ft', 'Africa', 'Ethiopia']"
-Necessary,Ethiopia,"Caramel, Peach","['Heirloom', 'B Corp', 'Washed', '1800 - 2300 ft', 'Africa', 'Ethiopia']"
-Yes Plz,Yes Plz Single Origin,"Baked Pear, Fresh Citrus, Apple","['Bourbon', 'Washed', 'Ethiopia']"
-Camber,Skyline Espresso,"Cocoa Powder, Blackberry, Orange","['1600 - 2100 ft', 'Colombia']"
-Ladro,Fremont,"Baked Pear, Molasses, Almond","['Fair Trade, Certified Organic']"
-Olympia,Little Buddy,"Berry, Stone Fruit, Chocolate",['N/A']
-Wonderstate,Organic Peru San Fernando,"Maple, Meyer Lemon, Roasted Almond","['Multi-Varietal', 'Certified Organic', 'Washed', '2000 - 2400 ft', 'South America', 'Peru']"
-Ruby,Organic Tomorrow Seasonal Project,"Maple, Milk Chocolate, Raisin","['Bourbon', 'Certified Organic', 'Washed', '1200 - 1350 ft', 'South America', 'Peru']"
-Quills,Southern Gothic,"Milk Chocolate, Caramel","['South America', 'Brazil']"
-Quills,Blacksmith Espresso,"Baker's Chocolate, Honey, Cherry","['South America', 'Brazil']"
-Methodical,"Colombia, Andres Cardona","Dark Chocolate, Strawberry","['Caturra', 'Direct Trade', 'Natural', '1650 - 1650 ft', 'South America', 'Colombia']"
-Groundwork,Colombia,"Tangerine, Milk Chocolate, Clover Honey","['Castillo', 'Washed', '1500 - 1750 ft', 'South America', 'Colombia']"
-KLLR,Africa,"Floral, Black Tea, Peach","['Africa', 'Ethiopia']"
-Cuvee,West Pole,"Cocoa Nib, Spice, Molasses","['Direct Trade', '1000 - 2000 ft']"
-Methodical,"Honduras, Walter Bautista","Blackberry, Orange, Blackcurrant","['Parainema', 'Direct Trade', 'Honey', '1500 - 1500 ft', 'Central America', 'Honduras']"
-Camber,Moonrise,"Honey, Tangerine","['1640 - 2100 ft', 'Ethiopia']"
-Temple,Three Pillars Blend,"Cocoa Powder, Brown Sugar, Dried Fruit","['1100 - 2000 ft', 'Central America']"
-Ladro,Queen Anne,"Clementine, Fig, Hazelnut",['N/A']
-Upper Left,"Andino, Peru","Plum, Chocolate, Caramel","['Certified Organic', 'Washed', '1000 - 2000 ft', 'South America', 'Peru']"
-Groundwork,Angel City,"Citrus, Date, Milk Chocolate",['N/A']
-Airship,Sumatra Kerinci,"Grapefruit, Floral, Cocoa Powder","['Heirloom', 'Direct Trade', 'Honey', 'Asia', 'Indonesia']"
-Zoka,Dominican Republic Cafe Kreyole,"Apricot, Lemon","['Direct Trade', 'Natural', 'Central America', 'Dominican Republic']"
-Zoka,Guatemala Santa Felisa Red Pache,"Green Grape, Lemon, Pear","['Direct Trade, ', 'Natural', 'Central America', 'Guatemala']"
-Quills,Night Owl,"Chocolate, Caramel, Tobacco","['South America', 'Guatemala']"
-Joe Coffee,Great Heights,"Chocolate, Molasses, Cinnamon","['Catuai', 'Natural', 'South America', 'Brazil']"
-Deeper Roots,Ethiopia Shantawene,"Blackberry, Stone Fruit, Red Fruit","['Heirloom', 'Natural', '2000 - 2400 ft', 'Africa', 'Ethiopia']"
-Cuvee,Karmadillo,"Dark Chocolate, Caramel, Rich","['Direct Trade', '1000 - 2000 ft']"
-Cuvee,Stella Cometa,"Caramel, Hazelnut","['Direct Trade', '1000 - 2000 ft']"
-Coffee Manufactory,04 Latin America,"Apricot, Cacao, Grapefruit","['Castillo', 'Washed', '3280 - 6561 ft', 'Central America', 'El Salvador']"
-Coffee Manufactory,03 Africa,"Honey, Blueberry, Dried Fruit","['Heirloom', 'Washed', '5478 - 6397 ft', 'Africa', 'Ethiopia']"
-Thou Mayest,Wild Child,"Lemon, Honey, Clean","['Heirloom', 'Washed', '1900 - 2000 ft', 'Africa', 'Ethiopia']"
-Joe Coffee,Big City,"Sugarcane, Baker's Chocolate, Roasted Almond","['Catuai', 'Natural', 'South America', 'Brazil']"
-PT's,Flor del Sol,"Cocoa Powder, Lemon, Raisin",['N/A']
-Cuvee,Emporium Blend,"Red Fruit, Malted Milk, Earl Grey","['Direct Trade', '1000 - 2000 ft']"
-Quills,Inkwell,"Sugarcane, Cherry, Vanilla","['Washed', 'South America', 'Guatemala']"
-Cuvee,El Salvador,"Citrus, Rich, Tangerine","['Bourbon', 'Direct Trade', '1500 - 1800 ft', 'Central America', 'El Salvador']"
-Proud Mary,Colombia EA Decaf de Cana - Huila,"Mandarin Orange, Milk Chocolate, Stone Fruit","['Castillo', 'Washed', 'South America', 'Colombia']"
-Wonderstate,Organic Star Valley Decaf,"Cream, Nutty","['Certified Organic', '1300 - 1700 ft', 'South America', 'Peru']"
-Temple,Decaffeinated Colombia,"Chocolate, Citrus, Cherry","['Caturra', '1750 - 1900 ft', 'South America', 'Colombia']"
-Ladro,Ladro Decaf,"Roasted Hazelnut, Grapefruit, Dark Chocolate",['N/A']
-Doma,Bella Luna,"Almond, Caramel, Chocolate","['Organic', 'South America', 'Brazil']"
-Camellia,Decaf,"Butterscotch, Dried Fruit, Cocoa","['Natural & Honey', 'South America', 'Colombia']"
-Square One,Nightcap,"Rhubarb, Cacao, Cashew","['1200 - 2000 ft', 'South America', 'Colombia']"
-Ruby,Decaf Flume Seasonal Blend,"Maple, Nutmeg, Baked Apple","['1200 - 1750 ft', 'South America', 'Brazil']"
-Equator,Decaf Eye Of The Tiger Espresso,"Orange Marmalade, Cinnamon, Nutella","['Catuai', '3950 - 5900 ft', 'Central America', 'Guatemala']"
-Camber,Goodnight Moon Decaf,"Red Apple, Dark Chocolate, Honey","['Bourbon', 'Central America', 'El Salvador']"
-Iconik,Decaf,"Sugarcane, Raisin, Almond","['Central America', 'Mexico']"
-Metric,Decaf,"Apple Cider, Caramel, Citrus","['South America', 'Colombia']"
-Black & White,Sugarcane Decaf,"Caramel, Milk Chocolate, Cherry",['1000 - 1800 ft']
-Gimme,Mexico Decaf de Agua Fairtrade Organic,"Fresh Citrus, Fudge, Vanilla","['Bourbon', 'Fair Trade, Certified Organic', '1000 - 1550 ft', 'Mexico']"
-Airship,Decaf Colombia,"Brown Sugar, Toffee, Plum","['Direct Trade', 'Washed', 'South America', 'Colombia']"
-Doma,Jackie Oh,"Lemon, Dried Fruit, Chocolate","['Certified Organic', 'South America', 'Brazil']"
-Bluestone Lane,Decaf Colombian,"Caramel, Chocolate, Roasted Peanuts","['South America', 'Colombia']"
-Panther,Decaf Mountain Water Brazil,"Cream, Chocolate, Red Fruit","['Catuai', 'Natural', 'South America', 'Brazil']"
-Cuvee,Jackalope Decaf,"Citrus, Malted Milk, Walnut","['Direct Trade', '1700 - 2000 ft', 'South America', 'Colombia']"
-Passenger,Los Sueños Decaf,"Tropical Fruit, Black Tea, Caramel","['B Corp', 'Washed', '1450 - 1650 ft', 'South America', 'Colombia']"
-Yes Plz,Yes Plz Decaf,"Baker's Chocolate, Brown Sugar, Toffee","['Bourbon', 'Washed', '1300 - 2000 ft', 'Colombia']"
-Thou Mayest,Laid Back Decaf,"Caramel, Smoky","['South America', 'Colombia']"
-Madcap,Placebo,"Red Fruit, Caramel","['South America', 'Colombia']"
-Olympia,Decaf Asterisk,"Milk Chocolate, Caramel, Marshmallow","['South America', 'Colombia']"
-Coffee Manufactory,00 Decaf,"Milk Chocolate, Raspberry, Lemon","['Washed', '1825 - 1825 ft', 'South America', 'Colombia']"
+vendor,bag_name,notes,details,size,price
+Olympia,Morning Sun,"Dark Chocolate, Molasses, Nougat","['Bourbon', 'Central America', 'El Salvador']",12 oz,$17.50
+ONYX,Monarch,"Dark Chocolate, Molasses, Red Wine","['Bourbon', 'Direct Trade, Fair Trade', 'Anaerobic', '1400 - 1800 ft', 'Central America', 'Honduras']",10 oz,$18.00
+Madcap,Bolt,"Chocolate, Syrupy, Red Fruit",['N/A'],10 oz,$18.00
+Methodical,Belly Warmer,"Rich, Dark Chocolate, Almond","['Direct Trade', '1150 - 1900 ft', 'South America']",12 oz,$17.00
+Equator,Jaguar Espresso FTO,"Hazelnut, Chocolate, Apricot","['Fair Trade, Certified Organic']",12 oz,$18.00
+Boon Boona,Bereka,"Honey, Sugarcane, Spice","['Certified Organic', 'Washed', '1400 - 2000 ft', 'Africa', 'Ethiopia']",12 oz,$18.00
+Verve,Bronson Blend,"Molasses, Dark Chocolate, Fig",['N/A'],12 oz,$19.75
+Black & White,The Traditional,"Dark Chocolate, Cherry, Marzipan","['Washed', '1600 - 2000 ft', 'South America', 'Colombia']",12 oz,$19.00
+Doma,Carmela's,"Brown Sugar, Dark Chocolate, Caramel",['South America'],12 oz,$18.25
+Olympia,Morning Sun,"Dark Chocolate, Molasses, Nougat","['Bourbon', 'Central America', 'El Salvador']",250 gr,$14.00
+Panther,1927 Espresso,"Dark Chocolate, Nutty, Syrupy",['N/A'],12 oz,$17.00
+N/A,N/A,N/A,['N/A'],N/A,N/A
+Dune,Zip Zinger,"Dark Chocolate, Rich, Stone Fruit","['Heirloom', 'Natural', '1550 - 2100 ft', 'Ethiopia']",10 oz,$16.00
+Groundwork,Black Magic,"Dark Chocolate, Red Berry",['N/A'],12 oz,$16.00
+Bluestone Lane,Flagstaff,"Roasted Almond, Vanilla, Chocolate","['Bourbon', 'B Corp, Cup of Excellence', 'Anaerobic', '1 - 1 ft', 'South America', 'Mexico']",12 oz,$16.00
+Methodical,Blue Boy,"Chocolate, Honey, Brown Sugar","['Direct Trade', 'Washed', '1500 - 1500 ft', 'Central America', 'Guatemala']",12 oz,$18.90
+Dune,House Blend,Hazelnut,"['Bourbon', 'Washed', '1550 - 1550 ft', 'Colombia']",10 oz,$16.00
+Bird Rock,The Optimist Blend,"Cinnamon, Cola, Dark Chocolate",['N/A'],10 oz,$19.00
+Equator,Dipsea Espresso,"Cinnamon, Dark Chocolate, Jammy","['B Corp', 'Natural', '3000 - 6550 ft', 'South America', 'Brazil']",12 oz,$16.00
+ONYX,Southern Weather,"Milk Chocolate, Plum, Candied Walnuts","['Castillo', 'Washed', '1200 - 1800 ft', 'South America', 'Colombia']",10 oz,$17.50
+Ruby,Portage Seasonal Blend,"Raisin, Praline, Cocoa Powder","['1250 - 1800 ft', 'South America']",12 oz,$16.00
+Panther,Casa,"Apricot, Black Cherry, Milk Chocolate","['Organic', 'Central America']",12 oz,$19.00
+Equator,Eye Of The Tiger Espresso,"Dark Chocolate, Dried Fruit","['B Corp', 'Washed', '4000 - 7050 ft', 'South America', 'Colombia']",12 oz,$18.50
+Bluestone Lane,Maverick,"Cacao, Clove, Honeycomb",['N/A'],12 oz,$16.00
+Brandywine,Galactic Standard,"Berry, Citrus, Chocolate","['Castillo', '1400 - 2000 ft', 'South America']",N/A,N/A
+Necessary,Dark Roast,"Molasses, Bittersweet Chocolate","['Heirloom', 'Washed', '900 - 1200 ft', 'South America', 'Brazil']",325 gr,$16.99
+Methodical,"Costa Rica, La Pastora","Almond, Plum","['Caturra', 'Washed', '1200 - 1900 ft', 'Central America', 'Costa Rica']",12 oz,$19.00
+Dune,Santarossa Blend,"Chocolate, Cinnamon, Great Body","['Bourbon', 'Washed', '1550 - 1550 ft', 'Colombia']",10 oz,$16.00
+Bird Rock,Midnight Surf,Apple,"['Washed', 'Central America']",10 oz,$18.50
+Bird Rock,Bird Rock Blend,"Fudge, Spice, Red Apple",['N/A'],10 oz,$17.00
+Black & White,The Classic,"Caramel, Stone Fruit, Milk Chocolate","['Washed', '1600 - 2000 ft', 'South America']",12 oz,$19.00
+Necessary,Colombia,"Roasted Nuts, Chocolate","['Castillo', 'B Corp', 'Washed', '1300 - 1700 ft', 'South America', 'Colombia']",325 gr,$16.99
+Boon Boona,Jebena,"Dark Chocolate, Caramel","['Certified Organic', 'Washed', '1400 - 2000 ft', 'Africa', 'Ethiopia']",12 oz,$18.00
+Coava,S.O. Blend,"Caramel, Chocolate, Dried Apple","['Washed', '1200 - 1800 ft', 'South America', 'Colombia']",10 oz,$17.50
+PT's,John Brown,"Baker's Chocolate, Cherry, Spice",['N/A'],10 oz,$16.00
+Klatch,Organic Espresso,Marshmallow,['N/A'],310 gr,$17.95
+Equator,Equator Blend,"Cedar, Apricot, Nutmeg",['N/A'],12 oz,$17.00
+Joe Coffee,Amsterdam,"Dark Chocolate, Walnut, Molasses",['N/A'],12 oz,$16.00
+Yes Plz,Homestar Espresso,"Great Body, Milk Chocolate, Nougat","['Washed', 'Central America']",12 oz,$22.00
+Wonderstate,Organic Off Grid Super Dark Roast,"Caramel, Smoky, Bittersweet Chocolate","['Certified Organic', 'Washed', '1800 - 1900 ft', 'South America', 'Peru']",12 oz,$17.00
+Panther,1985 Espresso,"Roasted Almond, Syrupy, Chocolate",['N/A'],12 oz,$17.00
+Panther,1985 Espresso,"Roasted Almond, Syrupy, Chocolate",['N/A'],12 oz,$17.00
+Gimme,Burundi Ngozi Highlands Dark Roast,"Dark Chocolate, Strawberry, Pepper","['Bourbon', 'Natural', '1750 - 1750 ft', 'Africa', 'Burundi']",12 oz,$24.00
+Methodical,Late Night,"Roasted Nuts, Smoky, Dark Chocolate","['Direct Trade', 'Honey', '1150 - 1150 ft', 'South America', 'Brazil']",12 oz,$16.30
+Doma,Marco's,"Brown Sugar, Chocolate, Cedar","['Certified Organic', 'Washed', 'South America']",12 oz,$19.25
+N/A,N/A,N/A,['N/A'],N/A,N/A
+Methodical,Play Nice,"Dark Chocolate, Berry, Syrupy","['Caturra', 'Direct Trade', '1600 - 1800 ft', 'South America']",12 oz,$19.20
+Iconik,Diesel,"Caramel, Great Body",['South America'],10 oz,$21.00
+Coffee Project NY,Woke Up in New York House Drip,"Candied Walnuts, Dried Fruit, Milk Chocolate",['N/A'],10 oz,$18.50
+Zoka,Fitzroy,"Milk Chocolate, Molasses, Cherry",['Central America'],12 oz,$17.75
+Joe Coffee,Benchmark,"Cacao, Spice, Caramel","['Washed', '1700 - 2000 ft', 'South America', 'Peru']",12 oz,$18.00
+Color,Primary (Our Seasonal Blend),"Milk Chocolate, Cherry, Caramel","['Direct Trade', 'Washed', 'South America']",10 oz,$16.50
+Groundwork,Wild Bloom Regenerative Organic Blend,"Milk Chocolate, Apple","['Direct Trade, Certified Organic, B Corp']",10 oz,$17.00
+Airship,Black Bear,"Dark Chocolate, Roasted Walnuts, Smoked Plums","['Bourbon', 'Direct Trade', 'Honey', 'South America', 'El Salvador']",310 gr,$18.00
+Zoka,Hidden City,"Chocolate, Molasses, Nutty",['South America'],12 oz,$18.25
+Klatch,Organic Rainforest Blend,"Brown Sugar, Caramel, Dark Chocolate",['Central America'],310 gr,$17.95
+Temple,Dharma Espresso Blend,"Cacao, Caramel, Nutty","['1000 - 1600 ft', 'South America']",12 oz,$17.75
+Ladro,Diablo,"Walnut, Brown Sugar, Baker's Chocolate","['Fair Trade, Certified Organic']",12 oz,$17.00
+Zoka,Hidden City,"Chocolate, Molasses, Nutty",['South America'],10 oz,$17.00
+Groundwork,Black Gold,"Dark Chocolate, Roasted Hazelnut, Red Fruit",['N/A'],12 oz,$16.00
+Wonderstate,Organic Heartstrings,"Dried Fruit, Milk Chocolate, Plum","['1300 - 2300 ft', 'Africa', 'Ethiopia']",12 oz,$18.00
+Camber,Big Joy Espresso Blend,"Red Fruit, Spice","['1500 - 1950 ft', 'South America', 'Guatemala']",12 oz,$18.00
+Kuma,Classic,"Caramel, Chocolate, Stone Fruit","['Bourbon', 'Direct Trade', 'Washed', '1750 - 2000 ft', 'South America', 'Guatemala']",12 oz,$17.50
+Square One,Candy Bar,"Roasted Nuts, Cacao, Plum","['1200 - 1700 ft', 'Central America', 'Brazil']",12 oz,$15.95
+Doma,Virgils,"Caramel, Cedar, Dark Chocolate",['Organic'],12 oz,$19.50
+Doma,Vitos,"Honey, Molasses, Nougat",['South America'],12 oz,$18.50
+Camellia,Comfort Zone,"Dark Chocolate, Almond","['Natural', 'South America', 'Brazil']",12 oz,$18.00
+Gimme,Righteous (Organic),"Floral, Butterscotch, Candied Lime","['Typica', 'Fair Trade, Certified Organic', 'Washed', '1600 - 1600 ft']",12 oz,$18.00
+Brandywine,Colombia - Santa Barbara Estate,"Dark Chocolate, Rich, Nutty","['Castillo', 'Washed', '1400 - 2000 ft', 'South America', 'Colombia']",12 oz,$19.00
+Necessary,Blend,"Chocolate, Brown Sugar","['Castillo', 'B Corp', 'Washed', 'South America']",325 gr,$16.99
+PT's,Cold Front,"Blackberry, Green Grape, Caramel",['N/A'],10 oz,$16.00
+PT's,Southpaw Espresso,"Caramel, Sugarcane, Peach",['N/A'],10 oz,$16.00
+PT's,Flying Monkey Espresso,"Chocolate, Honey",['South America'],10 oz,$16.00
+Passenger,Stowaway,"Brown Sugar, Cocoa Powder, Orchid","['B Corp', 'Washed', '1600 - 1800 ft', 'El Salvador']",10 oz,$18.25
+Metric,Seismic,"Mandarin Orange, Tamarind, Sweet Cream",['N/A'],10.5 oz,$19.00
+Metric,En Masse,"Cherry, Nougat, Honey",['N/A'],10.5 oz,$18.00
+Airship,Black Apple,"Black Cherry, Dark Chocolate, Juicy Orange","['Direct Trade', 'Washed', 'Africa', 'Ethiopia']",310 gr,$16.00
+Wonderstate,Organic Flyway,"Caramel, Citrus, Dried Cherry","['Certified Organic', '1500 - 1800 ft', 'Central America', 'Guatemala']",12 oz,$18.00
+Panther,Cold Brew,"Malted Milk, Dark Chocolate, Vanilla",['N/A'],12 oz,$17.00
+KLLR,El Alacran,"Cooked Fruit, Dark Chocolate, Tobacco",['N/A'],12 oz,$22.00
+Counter Culture Coffee,Forty-Six,"Dark Chocolate, Smoky","['Direct Trade, Certified Organic, B Corp', 'Washed']",12 oz,$17.50
+Counter Culture Coffee,Hologram,"Cooked Fruit, Milk Chocolate, Syrupy","['Direct Trade, B Corp', 'Natural']",12 oz,$19.00
+Counter Culture Coffee,Forty-Six,"Dark Chocolate, Smoky","['Direct Trade, Certified Organic, B Corp', 'Washed']",12 oz,$19.00
+Thou Mayest,Super Ego,"Dark Chocolate, Cherry, Syrupy","['1200 - 1600 ft', 'Central America', 'Brazil']",12 oz,$17.50
+Klatch,Blue Thunder Blend,"Rich, Smoky, Dark Chocolate",['Asia'],310 gr,$16.95
+Madcap,Placebo,"Red Fruit, Caramel","['South America', 'Colombia']",12 oz,$21.00
+Camellia,Ethereal,"Raspberry, Caramel","['Natural', 'South America', 'Brazil']",12 oz,$18.00
+Doma,Lucia's,"Spice, Dried Fruit, Brown Sugar","['Bourbon', 'Certified Organic', 'Washed', 'Central America', 'Guatemala']",12 oz,$19.25
+Verve,Seabright Blend,"Honeydew, Apricot, Hazelnut",['N/A'],12 oz,$19.75
+Verve,Streetlevel Blend,"Clementine, Honeycomb, Red Apple",['China'],12 oz,$19.75
+Wonderstate,Organic Driftless,"Plum, Toffee, Cocoa Powder","['Certified Organic', '1500 - 1900 ft', 'South America', 'Peru']",12 oz,$17.00
+Passenger,Montecarlos,"Clementine, Roasted Nuts, Cocoa Powder","['Bourbon', 'B Corp', 'Washed', '1600 - 1800 ft', 'Central America', 'El Salvador']",10 oz,$19.00
+Coffee Project NY,The Retro,"Chocolate, Cherry, Molasses",['N/A'],10 oz,$19.00
+Iconik,"Brazil, Carmo de Minas","Chocolate, Red Wine","['Bourbon', 'Direct Trade', 'Natural', 'South America', 'Brazil']",10 oz,$21.00
+Metric,Big Riff,"Stone Fruit, Dark Chocolate, Citrus",['N/A'],10.5 oz,$18.00
+Metric,Colossus,"Fudge, Brown Sugar, Smoky",['N/A'],10.5 oz,$19.00
+Sightglass,Owls Howl,"Cocoa Nib, Stone Fruit, Candied Orange Peel","['Direct Trade', 'Washed', 'Africa', 'Ethiopia']",12 oz,$20.50
+Coffee Manufactory,11 Dark,"Milk Chocolate, Blackcurrant","['Caturra', 'Washed', '3300 - 5200 ft', 'Central America']",12 oz,$17.50
+Temple,Riqueza Dark Blend,"Spice, Cocoa Powder, Caramel",['Central America'],12 oz,$17.75
+Gimme,Honduras Angel BBs Fairtrade Organic,"Baked Apple, Chocolate, Cocoa","['Fair Trade, Certified Organic', 'Washed', '900 - 1650 ft', 'Central America', 'Honduras']",12 oz,$14.00
+Airship,Buffalo Blend,"Caramel, Brown Sugar, Vanilla","['Bourbon', 'Direct Trade', 'Honey', '1700 - 1800 ft', 'Central America', 'Guatemala']",310 gr,$16.00
+Madcap,Eureka,"Chocolate, Orange, Brown Sugar",['N/A'],10 oz,$18.00
+Deeper Roots,Alchemy Espresso,"Cherry, Toffee, Chocolate","['Direct Trade', 'South America', 'Guatemala']",12 oz,$16.00
+Zoka,Espresso Paladino,"Citrus, Chocolate",['South America'],12 oz,$19.00
+Coava,Pacific Wonderland,Candied Walnuts,"['Washed', '1600 - 2000 ft', 'South America', 'Peru']",10.5 oz,$17.00
+N/A,N/A,N/A,['N/A'],N/A,N/A
+Gimme,Leftist (Fairtrade Organic),"Dark Chocolate, Cherry, Toffee","['Typica', 'Fair Trade, Certified Organic', 'Washed', '1600 - 2400 ft']",12 oz,$16.00
+Zoka,Espresso Paladino,"Citrus, Chocolate",['South America'],12 oz,$17.75
+Ruby,Organic August,"Berry, Honey, Milk Chocolate","['Organic', 'Washed', '1800 - 2200 ft', 'Africa', 'Ethiopia']",12 oz,$17.50
+Ruby,Creamery Seasonal Blend,"Fig, Cherry, Dark Chocolate","['Heirloom', 'Washed', '1750 - 2000 ft', 'South America']",12 oz,$16.00
+Equator,Mocha Java Fair Trade Organic,"Almond, Berry, Dark Chocolate","['Fair Trade', '4000 - 7380 ft', 'Africa', 'Ethiopia']",12 oz,$18.50
+Ladro,Ladro Espresso,"Milk Chocolate, Cherry, Caramel",['N/A'],12 oz,$17.00
+Gimme,Sumatra Gayo Highlands Dark Roast FT Organic,"Caramel, Smoked Plums, Bittersweet Chocolate","['Fair Trade, Certified Organic', 'Wet-hulled', '1200 - 1500 ft', 'Asia', 'Indonesia']",12 oz,$20.00
+Groundwork,Big Shot,"Blackstrap Molasses, Dried Fruit, Praline",['N/A'],12 oz,$16.00
+Gimme,Honduras Santa Barbara Highlands Dark Org FT,"Cherry, Bittersweet Chocolate, Toasted Walnut","['Pacas', 'Fair Trade, Certified Organic', 'Washed', '1800 - 1800 ft', 'Central America', 'Honduras']",12 oz,$16.00
+Panther,West Coast Espresso,"Lemonade, Malted Chocolate, Raspberry",['N/A'],12 oz,$16.00
+Doma,Dominics,"Caramel, Molasses, Raisin",['Organic'],12 oz,$19.50
+Groundwork,Golden Hour,"Brown Sugar, White peach","['Direct Trade, Organic, Certified Organic, B Corp', 'South America', 'Peru']",12 oz,$18.00
+Passenger,Daterra,"Red Berry, Date, Cocoa Powder","['Bourbon', 'B Corp', 'Natural', 'South America', 'Brazil']",10 oz,$18.00
+KLLR,KLLR Espresso Blend,"Chocolate, Floral, Spice",['Washed'],12 oz,$20.00
+Yes Plz,The Mix,"Chocolate, Nutty, Great Body",['Central America'],12 oz,$22.00
+Sightglass,Blueboon,"Milk Chocolate, Mandarin Orange, Honeysuckle","['Direct Trade, Certified Organic', 'Washed', 'Central America']",12 oz,$20.50
+Color,Eclipse (Our Dark Roast),"Dark Chocolate, Caramel","['Direct Trade', 'Washed', 'South America']",N/A,N/A
+Gimme,Brazil Cerrado Highlands  Fairtrade Dark Roast,"Cocoa Nib, Molasses, Orange Rind","['Catuai', 'Fair Trade', 'Natural', '900 - 1300 ft', 'South America', 'Brazil']",12 oz,$15.00
+Kuma,Bright,"Berry, Floral, Citrus","['Heirloom', 'Direct Trade', 'Washed', '1800 - 2100 ft', 'Africa', 'Ethiopia']",12 oz,$17.50
+Counter Culture Coffee,Slow Motion - Decaf,"Milk Chocolate, Molasses, Cocoa","['Direct Trade, Certified Organic, B Corp', 'Washed']",12 oz,$19.00
+Counter Culture Coffee,Big Trouble,"Caramel, Chocolate, Nutty","['Direct Trade, B Corp', 'Washed']",12 oz,$18.00
+Square One,Thaddeus,"Plum, Cacao, Brown Sugar","['1200 - 1600 ft', 'South America', 'Brazil']",12 oz,$15.95
+Camellia,Ethiopia Abiyot Ageze,"Citrus, Milk Chocolate, Strawberry Jam","['Heirloom', 'Natural', '1950 - 2300 ft', 'Africa', 'Ethiopia']",12 oz,$19.00
+Necessary,Burundi,"Berry, Molasses","['Bourbon', 'B Corp', 'Washed', '2000 - 2200 ft', 'Africa', 'Burundi']",325 gr,$16.99
+Iconik,Iconoclast Blend,"Floral, Blueberry, Fudge","['Direct Trade, Fair Trade', 'Central America', 'Peru']",10 oz,$21.00
+Coava,Kilenso (Espresso),"Lavender, Cantaloupe, Fresh Cream","['Heirloom', 'Direct Trade', 'Natural', '1750 - 1900 ft', 'Africa', 'Ethiopia']",10 oz,$19.00
+Equator,Rwanda Nyampinga,"Currant, Earl Grey, Plum","['Bourbon', 'Washed', '5600 - 5800 ft', 'Africa', 'Ethiopia']",12 oz,$18.00
+Passenger,Heza,"Raspberry, Black Tea, Apricot","['B Corp', 'Washed', 'Africa', 'Burundi']",10 oz,$20.00
+Olympia,Sweetheart,"Dark Chocolate, Cherry, Hazelnut",['N/A'],12 oz,$20.00
+Olympia,Big Truck,"Chocolate, Red Fruit, Cherry",['N/A'],12 oz,$18.50
+Gimme,Mt Pleasant Fairtrade Organic,"Maple, Nutty, Pine","['Fair Trade, Certified Organic']",12 oz,$18.00
+Coffee Manufactory,01 Espresso,"Dark Sugar, Mango, Cola","['Bourbon', 'Washed', '3000 - 5200 ft']",12 oz,$18.50
+Square One,Deluminator Dark Roast,"Molasses, Smoky, Orange","['Washed', '1300 - 1700 ft', 'Central America', 'Nicaragua']",12 oz,$15.95
+Square One,Sweet Street,"Cacao, Caramel, Molasses","['Washed', '1300 - 1700 ft', 'Central America', 'Nicaragua']",12 oz,$15.95
+Thou Mayest,Boldly Go,"Dark Chocolate, Walnut, Rich","['Washed', '1300 - 1600 ft', 'Asia', 'Indonesia']",12 oz,$17.50
+Doma,Summer Lovin,"Earl Grey, Red Apple, Orange Zest","['Heirloom', 'Washed', '1950 - 2150 ft', 'Africa', 'Ethiopia']",12 oz,$19.00
+Portola,Alchemistic,"Baker's Chocolate, Dried Fruit, Roasted Almond",['N/A'],12 oz,$19.95
+Iconik,Mexico (Medium Roast),"Almond, Caramel","['Washed', 'Central America', 'Mexico']",10 oz,$21.00
+Gimme,Sumatra Ketiara Fairtrade Organic,"Brown Sugar, Cinnamon, Date","['Fair Trade, Certified Organic', 'Wet-hulled', '1200 - 1500 ft', 'Asia', 'Indonesia']",12 oz,$19.00
+Gimme,Peru Sol Y Cafe Fairtrade Organic,"Clementine, Honeycomb, Vanilla","['Fair Trade, Certified Organic', 'Washed', '1200 - 2050 ft', 'South America', 'Peru']",12 oz,$16.00
+Gimme,Stargazer Fairtrade Organic,"Almond, Chocolate, Raspberry","['Fair Trade, Certified Organic']",12 oz,$17.00
+Upper Left,Espresso Blend,"Cherry, Chocolate, Apple Cider",['N/A'],10 oz,$16.00
+Coava,Morro Dos Padeiros,"Chocolate, Clove, Cranberry","['Catuai', 'Honey', '800 - 1100 ft', 'South America', 'Brazil']",10.5 oz,$8.75
+Proud Mary,Angel Wings,"Caramel, Orange",['Washed'],250 gr,$16.00
+Proud Mary,Ghost Rider,"Milk Chocolate, Jammy, Blueberry","['Natural', 'Central America']",250 gr,$16.00
+Bird Rock,Monkey Bite Espresso,"Brown Sugar, Apricot, Butterscotch",['N/A'],10 oz,$17.50
+Coava,Lo Mejor de Monserrate,"Apricot, Bittersweet Chocolate","['Caturra', 'Washed', '1500 - 1700 ft', 'South America', 'Colombia']",10.5 oz,$19.00
+Passenger,Keystone,"Floral, Red Fruit, Brown Sugar","['B Corp', 'Washed', '1300 - 1700 ft', 'Colombia']",10 oz,$18.25
+Coffee Project NY,Crowd Pleaser Espresso,"Black Cherry, Chocolate, Honey",['N/A'],10 oz,$19.00
+Cuvee,Mexico,"Chocolate, Citrus, Raisin","['Typica', 'Washed', '1000 - 1850 ft', 'Mexico']",12 oz,$17.25
+Methodical,"Ethiopia, Origins - Washed","Citrus, Floral, Jasmine Tea","['Heirloom', 'Washed', '1300 - 2200 ft', 'Africa', 'Ethiopia']",12 oz,$24.00
+KLLR,Natural Africa,"Berry, Floral, Lemon Curd","['Natural', 'Africa', 'Ethiopia']",12 oz,$24.00
+Upper Left,"Chapina, Guatemala","Caramel, Chocolate, Fig","['Bourbon', 'Washed', '1500 - 1800 ft', 'Central America', 'Guatemala']",10 oz,$16.00
+Gimme,Kenya Kericho Highlands Fairtrade Dark Roast,"Blackcurrant, Maple Syrup, Cocoa","['Batian', 'Fair Trade', 'Washed', '2000 - 2000 ft', 'Africa', 'Kenya']",12 oz,$23.00
+Gimme,Ethiopia SCFCU Fairtrade Organic,"Blueberry, Raspberry","['Heirloom', 'Fair Trade, Certified Organic', 'Natural', '1800 - 2200 ft', 'Africa', 'Ethiopia']",12 oz,$18.00
+Gimme,Brazil Coopfam Certified Fairtrade,"Cashew, Honey Graham, Roasted Peanuts","['Catuai', 'Fair Trade', 'Natural', '900 - 1300 ft', 'South America', 'Brazil']",12 oz,$14.00
+N/A,N/A,N/A,['N/A'],N/A,N/A
+Sightglass,Toketee,"Apricot, Cocoa Nib, Caramel","['Direct Trade, Certified Organic', 'Washed', 'Asia', 'Indonesia']",12 oz,$19.00
+Passenger,Cusco,"Marzipan, Red Fruit, Cocoa","['Typica', 'B Corp', 'Washed', '1600 - 2000 ft', 'South America', 'Peru']",10 oz,$18.00
+Passenger,Agaro,"Bergamot, Peach, Meyer Lemon","['Heirloom', 'B Corp', 'Washed', '1800 - 2100 ft', 'Africa', 'Ethiopia']",10 oz,$19.00
+Sightglass,Toketee,"Apricot, Cocoa Nib, Caramel","['Direct Trade, Certified Organic', 'Washed', 'Asia', 'Indonesia']",12 oz,$20.50
+Methodical,"Ethiopia, Origins - Natural","Berry, Black Tea, Chocolate","['Heirloom', 'Natural', '1200 - 2000 ft', 'Africa', 'Ethiopia']",12 oz,$24.00
+PT's,Terra Alta Pulped Natural,"Milk Chocolate, Vanilla, Peach","['960 - 1021 ft', 'South America', 'Guatemala']",10 oz,$15.00
+Metric,Colorized,"Peach, Mango, Cream",['N/A'],10.5 oz,$19.00
+ONYX,Geometry,"Berry, Lemon, Earl Grey","['Washed', 'Africa', 'Ethiopia']",10 oz,$18.50
+Coffee Manufactory,02 Filter,"Tangerine, Molasses, Nutmeg","['Caturra', 'Washed', '3300 - 5200 ft']",12 oz,$18.50
+Panther,East Coast Espresso,"Chocolate, Black Cherry, Sugarcane",['N/A'],12 oz,$16.00
+Doma,Veloce,"Orange, Peach, Brown Sugar","['Certified Organic', 'Central America']",12 oz,$20.25
+Portola,Terra Incognito,"Red Fruit, Floral, Dark Chocolate",['N/A'],12 oz,$19.95
+Gimme,Kenya Kabngetuny Fairtrade,"Honey, Mango, Plum","['Batian', 'Fair Trade', 'Washed', '2000 - 2000 ft', 'Africa', 'Kenya']",12 oz,$19.00
+Panther,Mejor,"Cherry, Citrus, Milk Chocolate","['Castillo', 'Organic', 'Washed', '1700 - 1900 ft', 'South America', 'Colombia']",12 oz,$19.00
+Gimme,Guatemala Guayab,"Apricot, Tangerine, Peach Nectar","['Typica', 'Fair Trade, Certified Organic', 'Washed', '1000 - 1600 ft', 'Central America', 'Guatemala']",12 oz,$16.00
+Counter Culture Coffee,Fast Forward,"Cream, Nutty, Sweet","['Direct Trade, Certified Organic, B Corp', 'Washed']",12 oz,$18.00
+Thou Mayest,Alter Ego,"Milk Chocolate, Honeycrisp Apple, Syrupy","['1200 - 1600 ft', 'South America', 'Brazil']",12 oz,$17.50
+Thou Mayest,Smooth Operator,"Milk Chocolate, Cherry, Syrupy","['South America', 'Brazil']",12 oz,$17.50
+N/A,N/A,N/A,['N/A'],N/A,N/A
+Klatch,Belle Espresso,"Strawberry, Red Fruit, Citrus","['2 - 10 ft', 'Asia', 'Colombia']",310 gr,$17.95
+Cuvee,Ethiopia,"Berry, Red Wine, Cherry","['Direct Trade', '1950 - 2300 ft', 'Africa', 'Ethiopia']",12 oz,$17.25
+Ladro,Fremont,"Baked Pear, Molasses, Almond","['Fair Trade, Certified Organic']",310 gr,$19.95
+Necessary,Ethiopia,"Caramel, Peach","['Heirloom', 'B Corp', 'Washed', '1800 - 2300 ft', 'Africa', 'Ethiopia']",325 gr,$16.99
+Yes Plz,Yes Plz Single Origin,"Baked Pear, Fresh Citrus, Apple","['Bourbon', 'Washed', 'Ethiopia']",12 oz,$22.00
+Camber,Skyline Espresso,"Cocoa Powder, Blackberry, Orange","['1600 - 2100 ft', 'Colombia']",12 oz,$19.00
+Ladro,Fremont,"Baked Pear, Molasses, Almond","['Fair Trade, Certified Organic']",12 oz,$17.00
+Olympia,Little Buddy,"Berry, Stone Fruit, Chocolate",['N/A'],12 oz,$22.00
+Wonderstate,Organic Peru San Fernando,"Maple, Meyer Lemon, Roasted Almond","['Multi-Varietal', 'Certified Organic', 'Washed', '2000 - 2400 ft', 'South America', 'Peru']",12 oz,$19.00
+Ruby,Organic Tomorrow Seasonal Project,"Maple, Milk Chocolate, Raisin","['Bourbon', 'Certified Organic', 'Washed', '1200 - 1350 ft', 'South America', 'Peru']",12 oz,$16.50
+Wonderstate,Organic Summer Solstice,"Blackberry, Citrus, Cooked Peach","['Certified Organic', '1600 - 2300 ft']",12 oz,$18.00
+Quills,Southern Gothic,"Milk Chocolate, Caramel","['South America', 'Brazil']",12 oz,$15.00
+N/A,N/A,N/A,['N/A'],N/A,N/A
+Panther,Cyesha,"Apricot, Cranberry, Lemon","['Bourbon', 'Washed', 'Africa', 'Rwanda']",12 oz,$23.00
+Methodical,"Colombia, Andres Cardona","Dark Chocolate, Strawberry","['Caturra', 'Direct Trade', 'Natural', '1650 - 1650 ft', 'South America', 'Colombia']",12 oz,$24.00
+Methodical,"Colombia, Andres Cardona","Dark Chocolate, Strawberry","['Caturra', 'Direct Trade', 'Natural', '1650 - 1650 ft', 'South America', 'Colombia']",12 oz,$36.00
+Groundwork,Colombia,"Tangerine, Milk Chocolate, Clover Honey","['Castillo', 'Washed', '1500 - 1750 ft', 'South America', 'Colombia']",12 oz,$16.95
+KLLR,Africa,"Floral, Black Tea, Peach","['Africa', 'Ethiopia']",12 oz,$24.00
+Cuvee,West Pole,"Cocoa Nib, Spice, Molasses","['Direct Trade', '1000 - 2000 ft']",12 oz,$15.00
+Methodical,"Honduras, Walter Bautista","Blackberry, Orange, Blackcurrant","['Parainema', 'Direct Trade', 'Honey', '1500 - 1500 ft', 'Central America', 'Honduras']",12 oz,$28.00
+Klatch,Colombia Monteblanco Rodrigo Sanchez,"Lavender, White peach","['Anaerobic', 'South America', 'Colombia']",310 gr,$24.95
+Klatch,El Salvador Las Mercedes Honey,"Raisin, Sugarcane, Honeysuckle","['Honey', 'Central America', 'El Salvador']",N/A,N/A
+Klatch,Ethiopia Buku Hambela Natural,"Blueberry, Cantaloupe, Peach","['Natural', 'Africa', 'Ethiopia']",310 gr,$22.95
+Camber,Moonrise,"Honey, Tangerine","['1640 - 2100 ft', 'Ethiopia']",12 oz,$22.00
+Temple,Three Pillars Blend,"Cocoa Powder, Brown Sugar, Dried Fruit","['1100 - 2000 ft', 'Central America']",12 oz,$17.75
+Ladro,Queen Anne,"Clementine, Fig, Hazelnut",['N/A'],12 oz,$17.00
+Upper Left,"Andino, Peru","Plum, Chocolate, Caramel","['Certified Organic', 'Washed', '1000 - 2000 ft', 'South America', 'Peru']",10 oz,$16.00
+Groundwork,Angel City,"Citrus, Date, Milk Chocolate",['N/A'],12 oz,$16.00
+Cuvee,Stella Cometa,"Caramel, Hazelnut","['Direct Trade', '1000 - 2000 ft']",310 gr,$19.50
+Gimme,Deep Disco Fairtrade Organic,"Blackberry, Cherry, Chocolate","['Fair Trade, Certified Organic', 'South America']",12 oz,$15.00
+Zoka,Dominican Republic Cafe Kreyole,"Apricot, Lemon","['Direct Trade', 'Natural', 'Central America', 'Dominican Republic']",12 oz,$24.75
+Quills,Night Owl,"Chocolate, Caramel, Tobacco","['South America', 'Guatemala']",12 oz,$15.00
+Gimme,Eternal Flame Fairtrade Dark Roast,"Dark Chocolate, Smoky, Liquorice","['Fair Trade', 'South America']",12 oz,$15.00
+Joe Coffee,Great Heights,"Chocolate, Molasses, Cinnamon","['Catuai', 'Natural', 'South America', 'Brazil']",12 oz,$15.00
+Deeper Roots,Ethiopia Shantawene,"Blackberry, Stone Fruit, Red Fruit","['Heirloom', 'Natural', '2000 - 2400 ft', 'Africa', 'Ethiopia']",12 oz,$17.00
+Cuvee,Karmadillo,"Dark Chocolate, Caramel, Rich","['Direct Trade', '1000 - 2000 ft']",12 oz,$15.00
+Cuvee,Stella Cometa,"Caramel, Hazelnut","['Direct Trade', '1000 - 2000 ft']",12 oz,$15.00
+Coffee Manufactory,04 Latin America,"Apricot, Cacao, Grapefruit","['Castillo', 'Washed', '3280 - 6561 ft', 'Central America', 'El Salvador']",12 oz,$20.50
+Coffee Manufactory,03 Africa,"Honey, Blueberry, Dried Fruit","['Heirloom', 'Washed', '5478 - 6397 ft', 'Africa', 'Ethiopia']",12 oz,$21.50
+Thou Mayest,Wild Child,"Lemon, Honey, Clean","['Heirloom', 'Washed', '1900 - 2000 ft', 'Africa', 'Ethiopia']",12 oz,$17.50
+Joe Coffee,Big City,"Sugarcane, Baker's Chocolate, Roasted Almond","['Catuai', 'Natural', 'South America', 'Brazil']",12 oz,$15.00
+PT's,Flor del Sol,"Cocoa Powder, Lemon, Raisin",['N/A'],10 oz,$15.00
+Cuvee,Emporium Blend,"Red Fruit, Malted Milk, Earl Grey","['Direct Trade', '1000 - 2000 ft']",12 oz,$15.00
+Quills,Inkwell,"Sugarcane, Cherry, Vanilla","['Washed', 'South America', 'Guatemala']",12 oz,$15.00
+Cuvee,El Salvador,"Citrus, Rich, Tangerine","['Bourbon', 'Direct Trade', '1500 - 1800 ft', 'Central America', 'El Salvador']",12 oz,$15.00
+Proud Mary,Colombia EA Decaf de Cana - Huila,"Mandarin Orange, Milk Chocolate, Stone Fruit","['Castillo', 'Washed', 'South America', 'Colombia']",250 gr,$17.00
+Klatch,Decaf Espresso,"Chocolate, Dried Fruit, Rich",['N/A'],310 gr,$17.95
+Wonderstate,Organic Star Valley Decaf,"Cream, Nutty","['Certified Organic', '1300 - 1700 ft', 'South America', 'Peru']",12 oz,$18.00
+Temple,Decaffeinated Colombia,"Chocolate, Citrus, Cherry","['Caturra', '1750 - 1900 ft', 'South America', 'Colombia']",12 oz,$18.25
+Ladro,Ladro Decaf,"Roasted Hazelnut, Grapefruit, Dark Chocolate",['N/A'],12 oz,$18.00
+Doma,Bella Luna,"Almond, Caramel, Chocolate","['Organic', 'South America', 'Brazil']",12 oz,$19.50
+Camellia,Decaf,"Butterscotch, Dried Fruit, Cocoa","['Natural & Honey', 'South America', 'Colombia']",12 oz,$18.00
+Square One,Nightcap,"Rhubarb, Cacao, Cashew","['1200 - 2000 ft', 'South America', 'Colombia']",12 oz,$17.95
+Ruby,Decaf Flume Seasonal Blend,"Maple, Nutmeg, Baked Apple","['1200 - 1750 ft', 'South America', 'Brazil']",12 oz,$17.00
+Equator,Decaf Eye Of The Tiger Espresso,"Orange Marmalade, Cinnamon, Nutella","['Catuai', '3950 - 5900 ft', 'Central America', 'Guatemala']",12 oz,$18.50
+Verve,Vancouver,"Almond, Cola, Honey","['1400 - 1500 ft', 'South America', 'Colombia']",12 oz,$19.75
+Methodical,Repose Decaf,"Citrus, Strawberry, Coconut Sugar","['Caturra', '1750 - 1750 ft', 'South America', 'Colombia']",12 oz,$28.00
+Klatch,Organic Decaf Guatemala,"Milk Chocolate, Sugarcane, Green Apple","['Washed', 'Central America', 'Guatemala']",310 gr,$19.95
+Camber,Goodnight Moon Decaf,"Red Apple, Dark Chocolate, Honey","['Bourbon', 'Central America', 'El Salvador']",12 oz,$22.00
+Iconik,Decaf,"Sugarcane, Raisin, Almond","['Central America', 'Mexico']",10 oz,$21.00
+Metric,Decaf,"Apple Cider, Caramel, Citrus","['South America', 'Colombia']",10.5 oz,$19.50
+Black & White,Sugarcane Decaf,"Caramel, Milk Chocolate, Cherry",['1000 - 1800 ft'],12 oz,$19.00
+Gimme,Mexico Decaf de Agua Fairtrade Organic,"Fresh Citrus, Fudge, Vanilla","['Bourbon', 'Fair Trade, Certified Organic', '1000 - 1550 ft', 'Mexico']",12 oz,$18.00
+Airship,Decaf Colombia,"Brown Sugar, Toffee, Plum","['Direct Trade', 'Washed', 'South America', 'Colombia']",310 gr,$18.00
+Metric,Decaf,"Apple Cider, Caramel, Citrus","['South America', 'Colombia']",12 oz,$19.25
+Bluestone Lane,Decaf Colombian,"Caramel, Chocolate, Roasted Peanuts","['South America', 'Colombia']",12 oz,$16.00
+Panther,Decaf Mountain Water Brazil,"Cream, Chocolate, Red Fruit","['Catuai', 'Natural', 'South America', 'Brazil']",12 oz,$19.00
+Cuvee,Jackalope Decaf,"Citrus, Malted Milk, Walnut","['Direct Trade', '1700 - 2000 ft', 'South America', 'Colombia']",12 oz,$17.75
+Olympia,Decaf Asterisk,"Milk Chocolate, Caramel, Marshmallow","['South America', 'Colombia']",10 oz,$19.00
+Yes Plz,Yes Plz Decaf,"Baker's Chocolate, Brown Sugar, Toffee","['Bourbon', 'Washed', '1300 - 2000 ft', 'Colombia']",12 oz,$22.00
+Thou Mayest,Laid Back Decaf,"Caramel, Smoky","['South America', 'Colombia']",12 oz,$17.75
+Madcap,Placebo,"Red Fruit, Caramel","['South America', 'Colombia']",10 oz,$18.00
+Coava,Decaf Asprotimina,"Blueberry, Chocolate, Apple","['Caturra', 'Washed', '1400 - 1700 ft', 'South America', 'Colombia']",10.5 oz,$21.00
+Olympia,Decaf Asterisk,"Milk Chocolate, Caramel, Marshmallow","['South America', 'Colombia']",12 oz,$22.00
+Coffee Manufactory,00 Decaf,"Milk Chocolate, Raspberry, Lemon","['Washed', '1825 - 1825 ft', 'South America', 'Colombia']",12 oz,$18.75
